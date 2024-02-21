@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329133779144",
+    "project_id": "byloop-e02ad",
+    "storage_bucket": "byloop-e02ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329133779144:android:474e359cabbd39f8385dfd",
+        "android_client_info": {
+          "package_name": "com.example.btloop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYxaZiWNvWFjjSzgJtJYT5XuefRlTD9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
